@@ -1,0 +1,4 @@
+excludesfile = ~/.gitignore
+dist/
+node_modules/
+tmp/
